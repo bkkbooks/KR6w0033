@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6w0033/d/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 略述法相義依釋
+  edition:
+    short: d
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D33/D33n8892.xml
+    old_id: D33n8892
+hash: sha256:0ea41057071096072e4060c25c450a7f2b06c6715dbc3c1c3565aae13201de95
